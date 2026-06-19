@@ -1,21 +1,36 @@
 # Startup Research Standard
 
-This directory contains twice-daily startup research reports. Each report covers
-10 newly discovered startups and is saved as:
+This directory contains twice-daily startup research reports. Create one
+directory per date so the morning and evening Markdown reports stay together:
 
-`YYYY-MM-DD-morning.md` or `YYYY-MM-DD-evening.md`
+```text
+Startups/YYYY-MM-DD/
+├── YYYY-MM-DD-morning.md
+└── YYYY-MM-DD-evening.md
+```
+
+Reports are Markdown only. Do not generate, modify, stage, or commit HTML.
 
 ## Selection rules
 
-- Start with newly announced companies and recent batches or portfolios from
-  Y Combinator, a16z, Sequoia, Founders Fund, General Catalyst, Accel, Index,
-  Lightspeed, Greylock, Bessemer, Benchmark, Khosla Ventures, NEA, Lux,
-  First Round, and other credible seed or venture firms.
-- Search broadly before selecting. Do not simply take the first 10 companies
-  found.
+- Discover candidates only through Y Combinator, a16z, Sequoia Capital,
+  Founders Fund, and General Catalyst. Analyze their newest batches, portfolio
+  additions, launch announcements, and investments.
+- Company websites, technical sources, founder profiles, government records,
+  and credible reporting may be used to verify and analyze a candidate after
+  discovery.
+- Every selected startup must have a verified founding, public launch, or first
+  accelerator/VC batch date on or after January 1, 2026. Exclude unverifiable
+  dates and every company founded before 2026.
+- Prioritize companies announced in the last 60 days. Widen only to earlier
+  2026 companies when necessary.
+- Include only pre-seed, seed, and Series A companies. Exclude Series B and
+  later companies. A recent later-stage round does not make an older company
+  eligible.
 - Prefer companies with enough primary evidence to analyze.
-- Do not repeat a startup already covered in a previous report unless there is
-  a material new event. When revisiting one, label it clearly as an update.
+- Do not repeat or publish update entries for a startup already covered.
+- If the five discovery sources do not provide 10 eligible companies, state
+  the shortfall rather than weakening the date, stage, or evidence gates.
 - The majority of every report should be technology startups. Prefer companies
   where software, AI/ML, infrastructure, robotics, hardware, biotech platforms,
   developer tools, cybersecurity, data systems, or another substantive
@@ -28,13 +43,11 @@ This directory contains twice-daily startup research reports. Each report covers
 
 ## Required analysis for every startup
 
-1. **Snapshot:** company, website, location, founding year, stage or batch,
-   investors, founders, and category.
-2. **Problem:** who experiences it, how severe and frequent it is, current
-   workaround, and why the problem matters now.
-3. **Product:** what the company actually does, user workflow, buyer, business
-   model, and technical or operational dependencies.
-4. **Technology:** explain the technical system as deeply as public evidence
+1. **Money:** funding amount, stage, investors, and verified user, customer, or
+   revenue evidence when available. Do not add unsupported valuation or market
+   claims.
+2. **Technology:** this is the largest section. Explain the product workflow
+   and technical system as deeply as public evidence
    permits: architecture, models or algorithms, data inputs and feedback loops,
    infrastructure, integrations, hardware or scientific components, deployment
    model, performance constraints, security, reliability, scalability, and
@@ -44,42 +57,27 @@ This directory contains twice-daily startup research reports. Each report covers
    validation. When implementation details are unavailable, state that plainly
    and infer cautiously from product behavior, hiring, patents, papers,
    repositories, technical posts, demos, and founder backgrounds.
-5. **Evidence and traction:** only verifiable adoption, customer, revenue,
-   funding, hiring, partnership, or product evidence. State when data is absent.
-6. **Market:** bottom-up market logic, initial wedge, expansion path, and
-   structural tailwinds or constraints. Avoid unsupported giant TAM figures.
-7. **Competition:** direct competitors, indirect alternatives, incumbent
-   response, switching costs, and a comparison table where useful.
-8. **Founders:** relevant founder-market fit, unusual insight, execution
+3. **Founders:** relevant prior work, founder-market fit, unusual insight,
+   technical or distribution
    advantages, gaps, and whether the team is unusually suited to win.
-9. **Moat:** assess both technical and commercial defensibility: proprietary
-   data, model improvement loops, systems expertise, patents or know-how,
-   integration depth, performance advantages, distribution, workflow lock-in,
-   network effects, regulation, brand, cost advantages, or lack of a moat.
-10. **Critical questions:** challenge the central assumptions. Identify what
-   would need to be true for the company to work and what evidence is missing.
-11. **Success case and failure case:** specific paths, not generic optimism or
-    generic risk lists.
-12. **Analyst verdict:** score problem quality, timing, product, technology,
-    market, founders, traction, defensibility, and overall investability from
-    1–10. Explain the score and give a confidence level.
-13. **Sources:** link primary sources first, then credible secondary reporting.
+4. **Verdict:** provide a short conclusion, numeric rating, and confidence
+   level. Include competition, risks, market context, and unanswered questions
+   only when they directly affect money, technology, founders, or the rating.
+5. **Sources:** link primary sources first, then credible secondary reporting.
     Include publication dates and access date.
 
 ## Report-level requirements
 
-- Begin with the search universe: sources checked, approximate number of
-  companies screened, selection logic, and exclusions.
-- Include a ranked summary table of all 10 selected startups.
-- End with cross-company observations, strongest opportunities, weakest
-  assumptions, themes worth tracking, and improvements over recent reports.
+- Begin with a short screening note: approximate candidates checked across the
+  five discovery sources, newest batches or announcements reviewed, and
+  confirmation that every selection passed the 2026 and stage gates.
+- Include a compact ranked summary table.
 - Write with high information density. Be concise, but never simplistic:
   remove repetition, throat-clearing, vague adjectives, and generic startup
   commentary while retaining evidence, mechanisms, causal reasoning,
-  technical detail, uncertainty, and counterarguments. Concision means fewer
-  wasted words, not shallower research.
+  technical detail, uncertainty, and counterarguments.
+- Target 3,500–5,500 words and do not exceed 6,000 words.
 - Before researching, read at least the three most recent reports when
-  available. Note recurring analytical mistakes, duplicated sectors, weak
-  evidence, or predictions that should affect the current report.
+  available, including the current day's morning report before the evening run.
 - Every material current fact must have a nearby citation or appear in the
   startup's source list.
