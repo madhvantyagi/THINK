@@ -1,0 +1,84 @@
+# Startup History
+
+One-line index of startups already covered in the dated reports. Read before discovery; do not cover these companies again.
+
+- RadixArk — commercializes SGLang and Miles infrastructure for high-throughput LLM inference serving and reinforcement-learning workloads.
+- Coram AI — builds AI-native physical-security software that turns camera feeds into searchable, alerting, and investigation workflows.
+- Katalyst Space Technologies — develops robotic spacecraft systems for rendezvous, inspection, and servicing of satellites already in orbit.
+- Sarvam AI — builds Indic-language foundation models, speech systems, and enterprise AI infrastructure for India-focused deployments.
+- Genesis AI — develops full-stack robot manipulation systems for general-purpose physical tasks.
+- Ent — monitors endpoint activity by humans and AI agents to block risky actions before data or systems are compromised.
+- Unframe — delivers managed enterprise AI systems by connecting company data, workflows, and reusable automation modules.
+- Bubble Robotics — builds persistent offshore robots intended to inspect and operate around marine energy infrastructure.
+- StrainX Bioworks — engineers microbial strains and fermentation processes for synthetic-biology manufacturing.
+- HighGround — aggregates and analyzes defense-market data so contractors can find programs, buyers, and competitive signals.
+- Apollo Atomics — designs compact pressurized-water nuclear reactors around a smaller steam-generator architecture.
+- Zibra Labs — orchestrates heterogeneous distributed compute so workloads can run across underused GPUs and accelerators.
+- Expanse — measures and optimizes GPU and HPC utilization to reduce idle accelerator spend.
+- Madrone — builds data-center cooling hardware for higher-density AI and compute infrastructure.
+- Infera — turns scientific experiment intent into executable lab-instrument protocols and workflows.
+- Lattice Health — monitors deployed medical AI systems for governance, drift, evaluation, and safety issues.
+- Arlo Industries — uses passive distributed sensing to detect and localize drones or other air threats.
+- Aseon Labs — builds robotic service depots for autonomous-vehicle fleet maintenance and inspection.
+- Advanced Metal Research — develops closed-loop robotic welding systems that adjust weld execution from sensor feedback.
+- ReasonBlocks — provides runtime checks and reliability tooling for AI agents before they take unsafe or incorrect actions.
+- Avea Robotics — provides low-latency teleoperation software and data capture for robot arms and humanoid systems.
+- Clawvisor — gives AI agents purpose-scoped authorization so tools and credentials can only be used for approved tasks.
+- Intelligence Factory — builds general-purpose robot manipulation systems for warehouse, grocery, and data-center work.
+- Modern — automates enterprise IT service-management workflows with agents that resolve tickets and operational requests.
+- Astraea — automates clinical-trial biometrics work such as data checks, statistical outputs, and validation workflows.
+- AgentPhone — provides phone numbers, telecom APIs, and identity primitives for AI agents.
+- Framewise Health — generates FHIR-native multilingual patient education and care instructions from clinical context.
+- Akkari — automates customer-operations workflows such as support, triage, and follow-up actions.
+- Pentagon — coordinates multiple AI agents in a shared workspace for task execution and collaboration.
+- Panacea — uses AI-enabled services to help medical-device and healthcare companies prepare FDA regulatory submissions.
+- OpenProse — provides a declarative language and runtime for versioned, inspectable, long-running AI-agent work.
+- Tolmo — builds a production knowledge graph and autonomous cloud-security layer for enterprise infrastructure.
+- General Instinct — optimizes edge inference so physical-AI systems can run faster and cheaper on constrained hardware.
+- shotwell.ai — analyzes robotics video to annotate failures, inspect behavior, and improve robot observability.
+- AquaShield — uses non-invasive sensing to detect pipe conditions and localize leaks without cutting into infrastructure.
+- BentoLabs AI — monitors AI-agent behavior for regressions, observability, evaluation, and feedback-driven improvement.
+- Allowance — issues scoped virtual payment credentials so AI agents can spend within controlled limits.
+- Twolabs — builds modular assistive humanoid robots for physical support tasks.
+- Zenbu — provides an extensible IDE for running and coordinating parallel coding agents.
+- Wato — gives enterprise AI agents shared memory, tool access, and persistent cloud sessions.
+- River Markets — aggregates prediction-market venues into one execution, routing, risk, and API layer.
+- Voquill — converts pathologist dictation into structured pathology reports and lab workflow outputs.
+- Hyper — maintains enterprise knowledge graphs that stay updated as company documents, systems, and teams change.
+- Runtime — provides sandboxed infrastructure and control planes for safely running coding agents.
+- CentralComs — automates property-management operations such as resident communication, maintenance, and back-office tasks.
+- Cohesion — builds autonomous public-equities research workflows for investment funds.
+- Hessian — forward-deploys enterprise AI agents that automate internal workflows with customer-specific context.
+- tday.com — generates marketing content grounded in product data and campaign feedback.
+- Walter — converts manufacturing documents into ERP-ready orders and workflow actions.
+- Thomas — builds autonomous economic agents intended to create, operate, and improve internet businesses.
+- WithAI — hosts secure command-center agents for asset managers that connect research, documents, market data, and workflows.
+- Kinect — turns commerce catalogs and storefront workflows into conversational and agent-readable buying experiences.
+- transload — uses cameras to measure freight dimensions and recover billing or planning value at logistics sites.
+- AbInitio Bio — applies transfer-learning models to biomanufacturing process development and optimization.
+- Hexa — automates industrial quoting, order intake, and production handoff workflows.
+- Alchemize — automates customs-brokerage workflows for import documentation, classification, and compliance.
+- Surtr Defense Systems — builds an open operating system for counter-UAS sensors, effectors, and command workflows.
+- Auxos — simulates synthetic customers for product, UX, and market research.
+- Result — provides an agentic operating system for launching and running new internet businesses.
+- Memoir — automates product-grounded marketing workflows from company and customer context.
+- Rudus — reads structural drawings to produce concrete takeoffs, estimates, and estimator review workflows.
+- Chronicle Labs — creates staging, backtesting, and replay environments from production data for AI agents.
+- Armature — analyzes and tests interfaces designed to be used by AI agents rather than only humans.
+- Arden — automates SOX compliance evidence collection, control testing, and workpaper generation.
+- Netter — builds ontology-backed data and workflow software for nursing-home and care operations.
+- Klaimee — tests, certifies, and underwrites AI-agent risk for safer deployment and insurance.
+- Mochatrade — offers self-custodial US-stock perpetual trading access for Indian users.
+- ANORIA — builds a wearable that infers emotional state from multimodal sensing.
+- Wealor — provides a knowledge and execution layer for wealth-management advisors.
+- General Aviation — builds satellite-connected air-traffic infrastructure for aircraft communication and monitoring.
+- PLAN0 AI — analyzes architectural plans to estimate construction costs and benchmark project-cost drivers.
+- Silmaril — builds self-improving prompt-injection defenses that detect and block harmful AI-agent inputs.
+- PerfectBit — creates verified AI training data through code-style specifications, tests, and correctness checks.
+- Prototyping.io — automates mechanical-part manufacturing from uploaded designs through quoting and production workflows.
+- matforge — uses AI materials-science agents to search for semiconductor materials and process recipes.
+- StableBrowse — provides reliable browser infrastructure so AI agents can use web apps without brittle sessions.
+- Tenet Industries — designs low-cost mass-producible defense hardware with rapid assembly and deployment constraints.
+- Atrisa — builds AI agents that help design, check, and iterate analog circuits.
+- Hedge — automates wholesale specialty-insurance workflows for brokers and underwriters.
+- Totalis — builds derivatives infrastructure on top of prediction markets for structured trading and risk products.

@@ -7,9 +7,13 @@ directory per date so the morning and evening Markdown reports stay together:
 Startups/YYYY-MM-DD/
 ├── YYYY-MM-DD-morning.md
 └── YYYY-MM-DD-evening.md
+
+Startups/history_Startup.md
 ```
 
 Reports are Markdown only. Do not generate, modify, stage, or commit HTML.
+`Startups/history_Startup.md` is the running one-line index of every startup
+already covered.
 
 ## Selection rules
 
@@ -29,6 +33,9 @@ Reports are Markdown only. Do not generate, modify, stage, or commit HTML.
   eligible.
 - Prefer companies with enough primary evidence to analyze.
 - Do not repeat or publish update entries for a startup already covered.
+- Before discovery, read `Startups/history_Startup.md` when it exists, then
+  read recent dated reports as needed. Treat the history file as the fast
+  duplicate-exclusion index and the reports as the source of record.
 - If the five discovery sources do not provide 10 eligible companies, state
   the shortfall rather than weakening the date, stage, or evidence gates.
 - The majority of every report should be technology startups. Prefer companies
@@ -47,16 +54,22 @@ Reports are Markdown only. Do not generate, modify, stage, or commit HTML.
    revenue evidence when available. Do not add unsupported valuation or market
    claims.
 2. **Technology:** this is the largest section. Explain the product workflow
-   and technical system as deeply as public evidence
-   permits: architecture, models or algorithms, data inputs and feedback loops,
-   infrastructure, integrations, hardware or scientific components, deployment
-   model, performance constraints, security, reliability, scalability, and
-   unit-cost drivers. Distinguish disclosed architecture from analyst
-   reconstruction. Identify what is genuinely difficult to build, what could
-   be assembled from commodity components, and what technical claims require
-   validation. When implementation details are unavailable, state that plainly
-   and infer cautiously from product behavior, hiring, patents, papers,
-   repositories, technical posts, demos, and founder backgrounds.
+   and technical system as deeply as public evidence permits. Start with a
+   plain operational explanation before architecture language: who uses it,
+   what input enters the product, what the system does step by step, what
+   output or action comes back, and where a human reviews or changes the
+   result. Then analyze architecture, models or algorithms, data inputs and
+   feedback loops, infrastructure, integrations, hardware or scientific
+   components, deployment model, performance constraints, security,
+   reliability, scalability, and unit-cost drivers. Distinguish disclosed
+   architecture from analyst reconstruction. If exact implementation details
+   are private, give cautious possible assumptions and label them as
+   assumptions. Identify what is genuinely difficult to build, what could be
+   assembled from commodity components, and what technical claims require
+   validation. Avoid fancy category labels unless the actual workflow is clear.
+   When implementation details are unavailable, state that plainly and infer
+   cautiously from product behavior, hiring, patents, papers, repositories,
+   technical posts, demos, and founder backgrounds.
 3. **Founders:** relevant prior work, founder-market fit, unusual insight,
    technical or distribution
    advantages, gaps, and whether the team is unusually suited to win.
@@ -76,8 +89,15 @@ Reports are Markdown only. Do not generate, modify, stage, or commit HTML.
   remove repetition, throat-clearing, vague adjectives, and generic startup
   commentary while retaining evidence, mechanisms, causal reasoning,
   technical detail, uncertainty, and counterarguments.
+- Do not compress the answer to "what the startup really does and how." Cut
+  generic market discussion first; preserve product workflow, concrete data
+  flow, implementation assumptions, and validation gaps.
 - Target 3,500–5,500 words and do not exceed 6,000 words.
 - Before researching, read at least the three most recent reports when
   available, including the current day's morning report before the evening run.
 - Every material current fact must have a nearby citation or appear in the
   startup's source list.
+- After finalizing a report, update `Startups/history_Startup.md` with one
+  line per newly covered startup: `Name — plain one-line description of what
+  it does.` Stage the new report and the history file only, unless the user
+  explicitly requested broader workflow edits.
