@@ -82,3 +82,13 @@ One-line index of startups already covered in the dated reports. Read before dis
 - Atrisa — builds AI agents that help design, check, and iterate analog circuits.
 - Hedge — automates wholesale specialty-insurance workflows for brokers and underwriters.
 - Totalis — builds derivatives infrastructure on top of prediction markets for structured trading and risk products.
+- Datost — answers and proactively investigates business-data questions through a company-specific semantic layer.
+- Aster — coordinates thousands of parallel AI agents to run and evaluate autonomous research experiments.
+- smol machines — packages workloads into portable hardware-isolated microVMs that run locally, in cloud, or self-hosted.
+- OpenWork — provides a local-first open-source desktop for sharing governed AI-agent workflows across teams.
+- TesterArmy — runs natural-language web and mobile tests and returns recordings, screenshots, and regression reports.
+- Ornadyne — develops bird-like autonomous flapping-wing aircraft for lower-signature surveillance missions.
+- AICE — builds modular autonomous subsea-drone swarms for monitoring and protecting maritime infrastructure.
+- Ara — turns engineering issues into reproduced, tested, evidence-backed pull requests with human review gates.
+- Uno Wallet — routes mobile tap-to-pay purchases to the user's highest-reward connected credit card.
+- HeyClicky — provides a voice- and screen-aware desktop assistant that can guide users or run background agents.
