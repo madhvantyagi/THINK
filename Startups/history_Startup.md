@@ -92,3 +92,13 @@ One-line index of startups already covered in the dated reports. Read before dis
 - Ara — turns engineering issues into reproduced, tested, evidence-backed pull requests with human review gates.
 - Uno Wallet — routes mobile tap-to-pay purchases to the user's highest-reward connected credit card.
 - HeyClicky — provides a voice- and screen-aware desktop assistant that can guide users or run background agents.
+- InLoop Robotics — deploys learning robot arms for warehouse picking, packing, kitting, and inspection with teleoperation fallback.
+- Superlog — installs OpenTelemetry observability, groups production incidents, investigates failures, and proposes repair pull requests.
+- Taiga — automates medical coding, claim submission, payment reconciliation, denial handling, and appeals for independent practices.
+- Parrot — runs collision-shop back-office workflows across estimates, parts, insurers, suppliers, customers, and payments.
+- Stage — restructures AI-generated pull requests into risk-focused chapters and review workflows for engineers.
+- Lab0 — uses agents to execute enterprise-software discovery, configuration, integration, testing, and go-live work.
+- Replicas — runs model-independent background coding agents inside configurable sandboxed development environments.
+- TakeCareOS — unifies scheduling, care records, billing, compliance, and administrative agents for home-care agencies.
+- Korso — coordinates long-running manufacturing RFQ, supplier, order, and customer workflows through existing ERP and CRM systems.
+- Chert — exposes iMessage conversations, media, events, and automation through APIs for business applications and agents.
