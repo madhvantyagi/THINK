@@ -102,3 +102,13 @@ One-line index of startups already covered in the dated reports. Read before dis
 - TakeCareOS — unifies scheduling, care records, billing, compliance, and administrative agents for home-care agencies.
 - Korso — coordinates long-running manufacturing RFQ, supplier, order, and customer workflows through existing ERP and CRM systems.
 - Chert — exposes iMessage conversations, media, events, and automation through APIs for business applications and agents.
+- Mirendil — trains frontier AI research systems and builds a lab-grade platform for autonomous model-research workflows.
+- Superset — orchestrates parallel coding agents across isolated local worktrees with review, terminal, and IDE handoff workflows.
+- Lightsprint — coordinates product teams and cloud coding agents from requirements to previewed pull requests.
+- Standard Signal — runs an AI-driven hedge-fund workflow that researches, decides, and executes trades with auditable risk controls.
+- Regbase — monitors global and local regulatory sources and turns legal changes into structured compliance intelligence.
+- Sherpa — analyzes website sessions, generates conversion experiments, and runs approved A/B tests automatically.
+- Zolvo — automates commercial-lending back-office workflows such as reconciliation, collections, and portfolio monitoring.
+- Andco — automates personal-injury pre-litigation workups across police, insurance, medical-record, fax, email, voice, and SMS channels.
+- Mount — underwrites, red-teams, and insures liability risks from deployed AI agents.
+- Oddpool — normalizes prediction-market venues into institutional-grade symbology, history, and backtesting data.
