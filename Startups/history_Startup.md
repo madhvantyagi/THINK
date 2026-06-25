@@ -112,3 +112,13 @@ One-line index of startups already covered in the dated reports. Read before dis
 - Andco — automates personal-injury pre-litigation workups across police, insurance, medical-record, fax, email, voice, and SMS channels.
 - Mount — underwrites, red-teams, and insures liability risks from deployed AI agents.
 - Oddpool — normalizes prediction-market venues into institutional-grade symbology, history, and backtesting data.
+- Kinro — operates an autonomous insurance brokerage that quotes and binds small-business insurance policies.
+- Trellis — runs short-term-rental operations across guest messaging, cleaners, maintenance, vendors, and owners.
+- Ontora — interviews employees and converts undocumented company workflows into process maps and automation roadmaps.
+- Andustry — finds and qualifies suppliers for industrial machines, parts, tools, and intermediate goods.
+- HEVN — provides global banking, contractor payout, card, approval, and record workflows for teams and agents.
+- RentAHuman — lets AI agents hire humans for physical-world tasks, data collection, errands, and local operations.
+- Sidekick — answers frontline industrial-worker questions over SMS using company documents, photos, voice, and escalation.
+- Salesgraph — builds enterprise-sales context graphs and agents for briefs, follow-ups, business cases, and deal next steps.
+- primitive — provides managed email addresses, APIs, webhooks, SDKs, and MCP tools for AI-agent communication.
+- Pavoot — automates customer-event attendee targeting, invitations, live coordination, lead ranking, and follow-up.
