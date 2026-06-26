@@ -122,6 +122,16 @@ One-line index of startups already covered in the dated reports. Read before dis
 - Salesgraph — builds enterprise-sales context graphs and agents for briefs, follow-ups, business cases, and deal next steps.
 - primitive — provides managed email addresses, APIs, webhooks, SDKs, and MCP tools for AI-agent communication.
 - Pavoot — automates customer-event attendee targeting, invitations, live coordination, lead ranking, and follow-up.
+- Rex — runs AI agents for enterprise order-to-cash work across receivables, follow-ups, portals, disputes, and exceptions.
+- Truffle — automates restaurant back-office work including inventory, demand forecasting, procurement, scheduling, and invoices.
+- Archal — provides stateful SaaS clones and traces so teams can test and repair autonomous software agents safely.
+- machine0 — provides persistent cloud VMs from a CLI for long-running coding agents and developer workloads.
+- Codag — compresses large systems-log windows into compact agent-readable debugging traces while preserving failure signal.
+- Cova — operates an AI-native Michigan home-care agency across caregiver onboarding, enrollment, insurance, billing, and care coordination.
+- Mireye — exposes cited geospatial ground truth through API and MCP so agents can reason about physical locations.
+- Cerenovus — converts company documents and communications into a markdown knowledge graph and operational map.
+- Glen — reconciles code, PRs, issues, docs, and meetings into unified context for agents and teams.
+- Atlas Discovery — trains foundation models of patient drug response to improve trial design and drug-rescue decisions.
 - Savant — turns scattered company knowledge and unwritten workflow context into a queryable operating memory layer for teams and AI agents.
 - Light Anchor — operates AI-run consumer e-commerce brands through agents for merchandising, marketing, sourcing, support, and store operations.
 - Foaster — uses AI-led employee interviews and expert review to map operations and produce AI transformation roadmaps.
@@ -133,12 +143,12 @@ One-line index of startups already covered in the dated reports. Read before dis
 - Imperfect — adapts endurance training, recovery, and nutrition recommendations from athlete health and activity data.
 - Napkin Math — provides a gamified AI food journal that personalizes nutrition tracking to goals, routines, and health constraints.
 - Whitespace — connects wholesale distributors' ERP, inbox, spreadsheets, and customer data to automate order entry, inventory planning, and support workflows.
-- Coasty — runs computer-use agents across web, desktop, terminal, API, MCP, and sandboxed VM workflows.
-- Insurf — builds a coverage-decision graph for health insurance through denied-claim appeals and plan-cost analysis.
+- Cova — runs an AI-native Michigan home-care agency across intake, coverage, billing, caregiver pay, and paperwork.
+- Shepherd — indexes company communications, documents, code, and tickets into a unified memory layer for people and agents.
 - FlowManual — reviews construction bids, contracts, vendor quotes, and invoices to flag scope, price, and exclusion changes.
 - Perceptron ML — monitors real-world events and prepares human-approved business responses when important triggers fire.
-- Isengard Industries — develops mass-production systems for allied precision-strike and counter-UAS defense hardware.
+- Osmaura — finds new legal-matter opportunities for law-firm partners by monitoring public signals and firm CRM data.
+- Bloomy — provides adaptive K-12 mastery learning with diagnostics, skill maps, guided practice, and Socratic AI tutoring.
 - Florin — provides startup banking, payments, cards, bill pay, and treasury workflows on a financial operating account.
 - Markov — creates RL environments, tasks, and datasets for training computer-use AI agents.
 - Poth Labs — investigates open-ended customer feedback against company data to find evidence-backed root causes.
-- Parasma — trains living human neurons with closed-loop algorithms for biological compute experiments.
