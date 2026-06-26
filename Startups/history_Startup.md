@@ -143,7 +143,7 @@ One-line index of startups already covered in the dated reports. Read before dis
 - Imperfect — adapts endurance training, recovery, and nutrition recommendations from athlete health and activity data.
 - Napkin Math — provides a gamified AI food journal that personalizes nutrition tracking to goals, routines, and health constraints.
 - Whitespace — connects wholesale distributors' ERP, inbox, spreadsheets, and customer data to automate order entry, inventory planning, and support workflows.
-- Cova — runs an AI-native Michigan home-care agency across intake, coverage, billing, caregiver pay, and paperwork.
+- Prescience — designs AI-assisted employer health benefits that aim to lower healthcare spend while improving member access and perks.
 - Shepherd — indexes company communications, documents, code, and tickets into a unified memory layer for people and agents.
 - FlowManual — reviews construction bids, contracts, vendor quotes, and invoices to flag scope, price, and exclusion changes.
 - Perceptron ML — monitors real-world events and prepares human-approved business responses when important triggers fire.
