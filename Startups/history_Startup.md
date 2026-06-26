@@ -132,3 +132,13 @@ One-line index of startups already covered in the dated reports. Read before dis
 - Revnu — runs startup growth workflows across outbound, SEO, ads, social content, A/B testing, and churn winback.
 - Imperfect — adapts endurance training, recovery, and nutrition recommendations from athlete health and activity data.
 - Napkin Math — provides a gamified AI food journal that personalizes nutrition tracking to goals, routines, and health constraints.
+- Whitespace — connects wholesale distributors' ERP, inbox, spreadsheets, and customer data to automate order entry, inventory planning, and support workflows.
+- Coasty — runs computer-use agents across web, desktop, terminal, API, MCP, and sandboxed VM workflows.
+- Insurf — builds a coverage-decision graph for health insurance through denied-claim appeals and plan-cost analysis.
+- FlowManual — reviews construction bids, contracts, vendor quotes, and invoices to flag scope, price, and exclusion changes.
+- Perceptron ML — monitors real-world events and prepares human-approved business responses when important triggers fire.
+- Isengard Industries — develops mass-production systems for allied precision-strike and counter-UAS defense hardware.
+- Florin — provides startup banking, payments, cards, bill pay, and treasury workflows on a financial operating account.
+- Markov — creates RL environments, tasks, and datasets for training computer-use AI agents.
+- Poth Labs — investigates open-ended customer feedback against company data to find evidence-backed root causes.
+- Parasma — trains living human neurons with closed-loop algorithms for biological compute experiments.
