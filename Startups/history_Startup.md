@@ -122,3 +122,13 @@ One-line index of startups already covered in the dated reports. Read before dis
 - Salesgraph — builds enterprise-sales context graphs and agents for briefs, follow-ups, business cases, and deal next steps.
 - primitive — provides managed email addresses, APIs, webhooks, SDKs, and MCP tools for AI-agent communication.
 - Pavoot — automates customer-event attendee targeting, invitations, live coordination, lead ranking, and follow-up.
+- Savant — turns scattered company knowledge and unwritten workflow context into a queryable operating memory layer for teams and AI agents.
+- Light Anchor — operates AI-run consumer e-commerce brands through agents for merchandising, marketing, sourcing, support, and store operations.
+- Foaster — uses AI-led employee interviews and expert review to map operations and produce AI transformation roadmaps.
+- The Company Company — builds a general company-running agent and infrastructure for operating functions such as engineering, sales, support, finance, and ops.
+- Pops — lets users generate, remix, play, and share short-form AI games with friends.
+- Drip — automates outbound and follow-up messaging across everyday channels to book meetings with human approval controls.
+- Archer — lets companies trigger AI agents to purchase, personalize, and deliver physical gifts or rewards from business-system events.
+- Revnu — runs startup growth workflows across outbound, SEO, ads, social content, A/B testing, and churn winback.
+- Imperfect — adapts endurance training, recovery, and nutrition recommendations from athlete health and activity data.
+- Napkin Math — provides a gamified AI food journal that personalizes nutrition tracking to goals, routines, and health constraints.
