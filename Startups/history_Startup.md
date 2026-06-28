@@ -152,3 +152,13 @@ One-line index of startups already covered in the dated reports. Read before dis
 - Florin — provides startup banking, payments, cards, bill pay, and treasury workflows on a financial operating account.
 - Markov — creates RL environments, tasks, and datasets for training computer-use AI agents.
 - Poth Labs — investigates open-ended customer feedback against company data to find evidence-backed root causes.
+- Coasty — runs computer-use agents that control desktop and browser workflows with self-correction, replay, and human takeover.
+- Isengard Industries Inc — builds mass-produced AI-powered precision and counter-drone defense systems for allied local manufacturing.
+- LATO — runs investor market research by combining public and fund data, interviews, and simulated market participants.
+- Insurf — builds health-insurance decision infrastructure for denied-claim appeals and true-cost plan selection.
+- Parasma — develops algorithms that use living neural systems as low-energy biological compute for AI workloads.
+- Blueprints — lets users build, backtest, paper-trade, and deploy automated Polymarket trading strategies with agent assistance.
+- Tsenta — matches job seekers to roles and automates tailored applications across career sites with user controls.
+- Aurorin CAD — builds AI-native mechanical CAD software around a custom parametric and B-Rep kernel.
+- Origami Robotics — builds robotic-hand hardware and data-collection systems for general manipulation learning.
+- Condor Energy — optimizes electricity procurement, hedging, and consumption for large energy users such as data centers.
