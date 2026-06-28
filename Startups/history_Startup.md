@@ -162,3 +162,13 @@ One-line index of startups already covered in the dated reports. Read before dis
 - Aurorin CAD — builds AI-native mechanical CAD software around a custom parametric and B-Rep kernel.
 - Origami Robotics — builds robotic-hand hardware and data-collection systems for general manipulation learning.
 - Condor Energy — optimizes electricity procurement, hedging, and consumption for large energy users such as data centers.
+- Experiential Labs — builds world-model-based environments that turn agent telemetry into evaluations and self-improvement loops.
+- Operon — converts industrial plant diagrams and documents into structured models for engineer queries and agentic workflows.
+- Valence — provides a unified prediction-market trading terminal with cross-venue execution, risk, and market-data infrastructure.
+- Fixture — builds an AI-first CRM that turns customer interactions into a programmable activity graph for people and agents.
+- Carrot Labs — tracks and attributes AI model spend by provider, request, customer, feature, team, and invoice.
+- Glue — provides a shared design-and-code canvas where humans and AI agents can keep interface work synchronized.
+- Cofia — observes repeated work patterns from system events and network activity to propose and run internal automations.
+- Sila — builds work messaging and collaboration software designed around human and AI-agent execution.
+- Tepali — unifies medspa scheduling, patient CRM, payments, inventory, marketing, and AI front-office workflows.
+- Instinct — builds an early trading product for expressing and managing market or prediction-style instincts.
